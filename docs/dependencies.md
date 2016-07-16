@@ -1,6 +1,6 @@
 ## 1. Download and Install Dependencies
 
-Building the firmware locally requires these dependencies ot be installed:
+Building the firmware locally requires these dependencies to be installed:
 
 1. [GCC for ARM Cortex processors](#1-gcc-for-arm-cortex-processors)
 2. [Make](#2-make)
